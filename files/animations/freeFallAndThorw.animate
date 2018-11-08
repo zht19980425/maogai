@@ -1,0 +1,18 @@
+/* 
+  Name:			FreeFallAndThrow
+  Type:			Entrance
+  Description:	FreeFallAndThrow Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"自由落体与抛投", "en-US":"Free Fall And Throw"}
+  Class:        FreeFallAndThrow
+  Parameter:   	<^   {"Options":{"deliveryMode":0}}   $>
+  
+ */
+ 
+@keyframes freeFallAndThrow{
+	
+}
+
+.freeFallAndThrow{
+	animation-duration: 2s;
+}

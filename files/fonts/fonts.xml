@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-2018118141816580.swf" ttfurl="./files/fonts/font-0-0-2018118141816580.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-2018118141817670.swf" ttfurl="./files/fonts/font-0-1-2018118141817670.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-2018118141818203.swf" ttfurl="./files/fonts/font-0-2-2018118141818203.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-2018118141818720.swf" ttfurl="./files/fonts/font-0-3-2018118141818720.ttf"/>
+  </fonts>
+</data>

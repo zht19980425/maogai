@@ -1,0 +1,16 @@
+/* 
+  Name:			SectionTypewriter
+  Type:			Entrance
+  Description:	Section Typewriter Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"行文本渐进", "en-US":"Section Typewriter"}
+  Class:        SectionTypewriter
+  LimitType:    MText
+ */
+ 
+@keyframes sectionTypewriter {
+	
+}
+.sectionTypewriter{
+	animation-duration: 3s;
+}
